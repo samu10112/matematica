@@ -1,0 +1,14 @@
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top:10px solid #7df018;
+    padding: 10px;
+    float:none;
+    text-align: left;
+    text-align: center !important;
+}
+#new{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
